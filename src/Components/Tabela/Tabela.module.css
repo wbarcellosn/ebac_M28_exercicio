@@ -1,0 +1,24 @@
+.tableTitle {
+    text-align: center;
+    margin-bottom: 8px;
+    font-size: 14px;
+}
+
+table {
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+th {
+    padding: 8px 32px;
+    background-color: var(--color1);
+    color: var(--color2);
+    border: 1px solid var(--color1);
+}
+
+td {
+    padding: 8px 32px;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 10px;
+}
